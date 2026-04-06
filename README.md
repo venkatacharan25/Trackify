@@ -94,7 +94,7 @@ Expense tracker/
 
 ---
 
-## 🛡️ API Documentation
+##  API Documentation
 
 | Method | Endpoint | Description | Auth Required |
 | :--- | :--- | :--- | :--- |
@@ -107,7 +107,7 @@ Expense tracker/
 
 ---
 
-## 📝 Future Roadmap
+##  Future Roadmap
 - [ ] **MySQL Persistence**: Move from H2 to a persistent MySQL database.
 - [ ] **Export to PDF/CSV**: Allow users to download their financial reports.
 - [ ] **Email Alerts**: Notify users when they exceed a monthly budget limit.
@@ -115,4 +115,3 @@ Expense tracker/
 
 ---
 
-**Developed with ❤️ by Antigravity AI**
