@@ -1,4 +1,4 @@
-# 💰 Expense Tracker - Full-Stack Application
+# Trackify
 
 A modern, responsive, and secure personal finance management tool built with **Spring Boot** and **React**. Track your spending, analyze monthly budgets, and visualize your financial health with interactive charts.
 
